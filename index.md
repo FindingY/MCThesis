@@ -1,6 +1,6 @@
 # Maryville College Thesis Template
 
-This template is a modification of the University of Tennessee dissertation class file and has been adapted for use in Senior Study projects within the Division of Mathematics and Computer Science at Maryville College. It retains the core structural elements of the original dissertation format while being tailored to meet the specific guidelines and expectations for undergraduate research in the division.
+This template is a modification of the University of Tennessee dissertation class file and has been adapted for use in Senior Study projects within the Division of Mathematics and Computer Science at Maryville College. It is a streamlined version of the format tailored to meet the specific needs for undergraduate research in the division.
 
 ## Steps to Get Started
 
