@@ -5,7 +5,7 @@ This template is a modification of the University of Tennessee dissertation clas
 ## Steps to Get Started
 
 1. Log in to [Overleaf.com](https://www.overleaf.com)
-2. Download the MC Thesis template [here](https://findingy.github.io/MCThesis/template.zip)
+2. Download the MC Thesis template [here](https://findingy.github.io/mcthesis/template.zip)
 3. Upload the template to Overleaf by clicking **"New Project" → "Upload Project"**
 4. Overleaf will import the template and start the project
 5. Have FUN!
